@@ -8,7 +8,7 @@ This is a Laravel 11-based assignment project that implements a full-featured CR
 
 - JWT-based **authentication** (Login, Register, Logout)
 - Full **CRUD** for `school_partners` (Create, Read, Update, Delete)
-- **Search** and filter school partners by name or contact person
+- **Search** by school partners name or contact person
 - **Paginated results** with responsive UI
 - **Export** all records to Excel (XLSX) using Laravel Excel
 - Show **logged-in user name** and a **logout** option in the dashboard
